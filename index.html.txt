@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> using git commands</title
+</head>
+<body>
+<p>
+uploading files in github using git.
+</p>
+</body>
+</html>
